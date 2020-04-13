@@ -173,6 +173,7 @@ body {
 }
 
 .site-description {
+    visibility: hidden;
     z-index: 10;
     margin: 0;
     padding: 5px 0;
